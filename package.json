@@ -1,0 +1,22 @@
+{
+  "name": "fjclp",
+  "version": "1.0.0",
+  "description": "Frère Jean contre les Picrocholiens, le jeu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitwix/FJCLP.git"
+  },
+  "author": "Niels Lachat & Nina Ionescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitwix/FJCLP/issues"
+  },
+  "homepage": "https://github.com/Nitwix/FJCLP#readme",
+  "dependencies": {
+    "phaser": "^3.10.1"
+  }
+}
